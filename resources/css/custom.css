@@ -1,0 +1,156 @@
+#rform
+{
+-webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+  -moz-box-shadow:    3px 3px 5px 6px #ccc; 
+  box-shadow:         3px 3px 5px 6px #ccc;
+  color: #000;
+  margin-top: 50px;	
+}
+
+.inner{
+	background: none !important;a
+}
+
+.registrationForm{
+	margin: 0 auto;
+	width: 70%;
+	padding: 20px;
+}
+
+#rform input[type=text],input[type=email], input[type=password], select{
+  border: 2px solid red;
+  border-radius: 4px;
+  padding: 10px;
+}
+#rform input[type=file] {
+  border: 2px solid red;
+  border-radius: 4px;
+  padding: 3px;
+}
+.registrationForm .radio-inline{
+	margin: 0 10px;
+}
+
+#rform select{
+  border: 2px solid red;
+  border-radius: 4px;
+}
+#loginform{
+  width: 100%;
+  padding: 5%;
+  margin-top: 100px;
+}
+#lform
+{
+  width: 60%;
+-webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+  -moz-box-shadow:    3px 3px 5px 6px #ccc; 
+  box-shadow:         3px 3px 5px 6px #ccc;
+  color: #000;
+  margin: 0 auto;
+}
+#lform input[type=email]
+{
+ border: 2px solid red;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.bg-pink{
+  background: #c32828;
+}
+
+.side-bg-pink{
+  background: #c32828;
+  border-top: 2px solid #000;
+}
+.bg-pink .nav-item{
+  color: #000 !important;
+}
+.hirer-section
+{
+  background: #000;
+}
+.mybutton
+{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.navbar .nav-link
+{
+  font-size: 18px;
+  color: #fff !important;
+  font-weight: 100;
+}
+.navbar .nav-link:hover
+{
+  font-size: 18px;
+  color: #c1bdab !important;
+}
+
+.table-horizontal
+{
+      background: #a99f9f !important;
+    padding: 10px;
+
+}
+.user-pro{
+  border: 2px solid #f00;
+  margin: 15px;
+}
+
+#updateUser input[type=text]
+{
+ color: #000;
+}
+
+#updateUser input[type=text]
+{
+ border: 2px solid red;
+  border-radius: 4px;
+  padding: 10px;
+}
+.social-small {
+    margin-left: 10px;
+    margin-top: 15px;
+    background: #fff;
+    margin-right: 15px;
+    padding-bottom: 7px;
+}
+.my-auto{
+  margin-top: 20px !important;
+  color: #000;
+}
+#employeeregisters input[type=number]
+{
+ border: 2px solid red;
+  border-radius: 4px;
+  padding: 10px;
+}
+.inner-details #rform{
+  margin-top: 0;
+}
+.inner-details form
+{
+  width: 100%;
+  padding: 50px;
+}
+
+#updateUser{
+  width: 100%;
+  color: #000;
+}
+#updateemployeework
+{
+  width: 100%;
+  padding: 50px;
+}
+.skills{
+  margin: 19px;
+}
+.mybuttonn
+{
+  width: 50%;
+  margin: 0;
+  border-radius: 0px;
+}
